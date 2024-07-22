@@ -23,3 +23,11 @@ Further expanding my expertise, I ventured into mobile application development. 
 My problem-solving skills, coupled with my fast learning capabilities and self-driven approach, enable me to quickly adapt to new technologies and situations. I am committed to continuous learning and innovation, always seeking to enhance my skills and contribute to cutting-edge solutions in AI and ML.
 
 I am eager to connect with like-minded professionals and explore opportunities to collaborate on impactful projects that push the boundaries of technology and creativity.
+
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
