@@ -64,7 +64,7 @@ I am eager to connect with like-minded professionals and explore opportunities t
 	AWS, Google Cloud, Azure
 <br>
 
-<h3> :open_file_folder: My Repositories </h3>
+<h3> :open_file_folder: My Public Repositories </h3>
 <div>
   <p align="center">
 	<a href="https://github.com/heyalisher/LinuxKernelPatchesForMac">
