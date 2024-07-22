@@ -10,10 +10,16 @@
 <br>
 
 <p>
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
+As an AI & ML Professional with a diverse skill set spanning AI/ML, web and mobile application development, and graphics design, I bring a unique blend of creativity and technical expertise to every project. I am passionate about leveraging technology to solve complex problems and drive innovation.
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
+In the realm of AI and ML, I have developed and deployed various AI projects, focusing on machine learning, data analysis, and natural language processing. My work includes developing AI-powered security systems, automated data analysis tools, and predictive maintenance systems, demonstrating my ability to apply AI technologies to real-world challenges.
 
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions. 
+My journey in technology began with extensive experience in graphics design. I have successfully completed numerous projects honing my skills in creating visually compelling and user-centric designs.
 
-Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
+Building on this foundation, I transitioned into web development, where I have successfully completed a wide range of projects using technologies like React, Flutter, Vue.js, PHP, Node.js, Python. This experience has equipped me with a robust understanding of full-stack web development.
+
+Further expanding my expertise, I ventured into mobile application development. I have developed several mobile applications using React Native and Flutter, focusing on creating seamless and user-friendly mobile experiences.
+
+My problem-solving skills, coupled with my fast learning capabilities and self-driven approach, enable me to quickly adapt to new technologies and situations. I am committed to continuous learning and innovation, always seeking to enhance my skills and contribute to cutting-edge solutions in AI and ML.
+
+I am eager to connect with like-minded professionals and explore opportunities to collaborate on impactful projects that push the boundaries of technology and creativity.
