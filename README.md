@@ -38,30 +38,22 @@ I am eager to connect with like-minded professionals and explore opportunities t
 
 	TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-<br>
 
 - **Full Stack Web Development**:
 
 	React, Flutter, Vue.js, Angular, JavaScript, Node.js, PHP, Python
-<br>
 
 - **Mobile App Development**:
 
 	React Native, Flutter
-<br>
 
 - **Databases**:
 
 	MySQL, MongoDB, Firebase
-<br>
 
 - **DevOps**:
 
 	Docker, Kubernetes, Jenkins
-<br>
 
 - **Cloud Platforms**:
 
