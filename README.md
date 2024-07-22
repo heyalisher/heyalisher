@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ali Sher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+&+ML+Professional..&hearts;++;Full+Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <br>
 
@@ -38,22 +38,30 @@ I am eager to connect with like-minded professionals and explore opportunities t
 
 	TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
     
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
 - **Full Stack Web Development**:
 
 	React, Flutter, Vue.js, Angular, JavaScript, Node.js, PHP, Python
+<br>
 
 - **Mobile App Development**:
 
 	React Native, Flutter
+<br>
 
 - **Databases**:
 
 	MySQL, MongoDB, Firebase
+<br>
 
 - **DevOps**:
 
 	Docker, Kubernetes, Jenkins
+<br>
 
 - **Cloud Platforms**:
 
