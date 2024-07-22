@@ -64,6 +64,18 @@ I am eager to connect with like-minded professionals and explore opportunities t
 	AWS, Google Cloud, Azure
 <br>
 
+<h3> :open_file_folder: My Repositories </h3>
+<div>
+  <p align="center">
+	<a href="https://github.com/heyalisher/LinuxKernelPatchesForMac">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/heyalisher/MacNetworkFirmwaresForLinux">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -78,6 +90,3 @@ I am eager to connect with like-minded professionals and explore opportunities t
 <a href="https://www.linkedin.com/in/heyalisher/" target="blank"><img align="" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://github.com/heyalisher" target="blank"><img align="" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="50" width="50" /></a>
 </p>
-
-
-<h3> :open_file_folder: My Repositories </h3>
