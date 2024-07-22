@@ -36,7 +36,7 @@ I am eager to connect with like-minded professionals and explore opportunities t
 
 - **Languages**:
     
-    ![C](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?style=for-the-badge&logo=c&logoColor=white&height=5)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
