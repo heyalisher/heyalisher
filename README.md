@@ -54,6 +54,8 @@ I am eager to connect with like-minded professionals and explore opportunities t
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/heyalisher/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/heyalisher/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="linkedin" height="50" width="50" /></a>
+<p align="center">
+<a href="https://github.com/heyalisher" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="50" width="50" /></a>
 </p>
