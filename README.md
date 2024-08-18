@@ -10,17 +10,15 @@
 <br>
 
 <p>
-As an AI & ML Professional with a diverse skill set spanning AI/ML, web and mobile application development, and graphics design, I bring a unique blend of creativity and technical expertise to every project. I am passionate about leveraging technology to solve complex problems and drive innovation.
+As a multifaceted technology professional with expertise in AI/ML, full-stack development, cybersecurity, and robotics, I thrive on tackling complex challenges and creating innovative, scalable solutions. My journey in tech started with a foundation in graphics design, where I honed my ability to create visually compelling, user-centric designs. This creative background laid the groundwork for my transition into web and mobile application development, where I've successfully delivered a wide range of projects using modern technologies like React, Flutter, Vue.js, PHP, Node.js, and Python.
 
-In the realm of AI and ML, I have developed and deployed various AI projects, focusing on machine learning, data analysis, and natural language processing. My work includes developing AI-powered security systems, automated data analysis tools, and predictive maintenance systems, demonstrating my ability to apply AI technologies to real-world challenges.
+In the realm of AI and machine learning, I've led the development and deployment of AI-powered systems, focusing on machine learning, data analysis, natural language processing, and predictive maintenance. These projects demonstrate my ability to apply AI technologies to solve real-world problems, particularly in enhancing security and efficiency.
 
-My journey in technology began with extensive experience in graphics design. I have successfully completed numerous projects honing my skills in creating visually compelling and user-centric designs.
+Currently, I am pursuing a degree in Cybersecurity, building on my growing interest in creating secure, robust systems. I've earned professional certifications from industry leaders like IBM, Google, and Microsoft, which have further solidified my expertise in cybersecurity. This, combined with my hands-on experience, enables me to design and implement secure AI solutions and applications.
 
-Building on this foundation, I transitioned into web development, where I have successfully completed a wide range of projects using technologies like React, Flutter, Vue.js, PHP, Node.js, Python. This experience has equipped me with a robust understanding of full-stack web development.
+Robotics is another area that fascinates me, particularly its intersection with AI and machine learning. I am continually exploring how these technologies can be integrated to drive innovation and create intelligent, autonomous systems.
 
-Further expanding my expertise, I ventured into mobile application development. I have developed several mobile applications using React Native and Flutter, focusing on creating seamless and user-friendly mobile experiences.
-
-My problem-solving skills, coupled with my fast learning capabilities and self-driven approach, enable me to quickly adapt to new technologies and situations. I am committed to continuous learning and innovation, always seeking to enhance my skills and contribute to cutting-edge solutions in AI and ML.
+My problem-solving skills, coupled with my fast learning capabilities and self-driven approach, allow me to quickly adapt to new technologies and environments. I am committed to continuous learning and innovation, always seeking to enhance my skills and contribute to cutting-edge solutions in AI, ML, cybersecurity, and robotics.
 
 I am eager to connect with like-minded professionals and explore opportunities to collaborate on impactful projects that push the boundaries of technology and creativity.
 
